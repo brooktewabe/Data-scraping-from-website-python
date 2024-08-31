@@ -1,8 +1,8 @@
 # data-scraping-from-website
 
 Initial data from wiki </br>
-(wiki-data.png)
+![Demo](wiki-data.png)
 
 
 Scraped data </br>
-(final.png)
+![Demo](final.png)
